@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BasmaOnline</string>
+    <string name="content_description_media">card_description</string>
+    <string name="title">card_title</string>
+    <string name="action_1">show_product</string>
+    <string name="action_2">add_prds_to_checklist</string>
+</resources>
